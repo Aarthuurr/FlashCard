@@ -4,11 +4,11 @@
     padding: 0;
     }
 
-    .cabecalho {
+    header {
     padding: 15px 25px;
     }
 
-    .cartao {
+    .cartao-verso {
     width: 260px;
     height: 200px;
     }
